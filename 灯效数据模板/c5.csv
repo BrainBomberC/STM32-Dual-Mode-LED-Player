@@ -1,0 +1,12 @@
+Programmable IC for single-frame 80+32 bits,,,,
+Num of ICs £¨< 200£©£º,1,,,
+delay_frame£¨ms),70,,,
+gain of R,2,,,
+gain of G,2,,,
+gain of B,2,,,
+gain of W,2,,,
+gain of Y,2,,,
+R,G,B,W,Y
+0,1000,2000,0,65520
+0,1000,2000,0,65520
+0,1000,2000,0,65520
